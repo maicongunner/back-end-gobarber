@@ -1,4 +1,4 @@
 # back-end-gobarber
-App GoBarber - Back-end using Node.JS
+App GoBarber - Back-end using NodeJS
 
-# Back-end app GoBarber using Node.JS, Express, Sequelize(Postgres), Sucrase + Nodemon e Eslint + Prettier + EditorConfig.
+# Back-end app GoBarber using NodeJS, Express, Sequelize(Postgres), Sucrase + Nodemon e Eslint + Prettier + EditorConfig.
